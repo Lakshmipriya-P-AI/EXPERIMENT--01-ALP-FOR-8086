@@ -1,11 +1,7 @@
 # EXPERIMENT--01-ALP-FOR-8086
-Name :
-Roll no 
-Date of experiment :
-
-
-
-
+Name : Lakshmi Priya.P
+Roll no: 212221230053
+Date of experiment : 9-9-2022
 
 ## Aim: To Write and execute ALP on fundamental arithmetic and logical operations
 ## Components required: 8086  emulator 
@@ -75,7 +71,7 @@ HLT;
 
 ![189373659-dcf9df19-0f35-4847-a08e-bc4b46b3b132](https://user-images.githubusercontent.com/93427923/189382471-06036081-c4f9-47b7-bd1d-1b842dfc9b7e.png)
   
-## Multiplication alp 
+## Multiplication of 8 bit ALP:
 ```
 name "MULTIPLICATION"
 org 700h
@@ -91,7 +87,7 @@ HLT;
 
 ![189373689-403eb021-92a1-4213-9d30-48905a6df3b7](https://user-images.githubusercontent.com/93427923/189382594-7c86a039-8737-4ae4-8425-7b8d6f41af1d.png)
 
-## Division alp 
+## Division of 8 bit ALP:
 ```
 name "DIVISION"
 org 700h
